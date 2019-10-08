@@ -1,4 +1,5 @@
 # MinIO Java SDK for Amazon S3 Compatible Cloud Storage [![Slack](https://slack.min.io/slack?type=svg)](https://slack.min.io)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fminio-java.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fminio-java?ref=badge_shield)
 
 The MinIO Java Client SDK provides simple APIs to access any Amazon S3 compatible object storage server.
 
@@ -169,3 +170,7 @@ The full API Reference is available here.
 
 [![Build Status](https://travis-ci.org/minio/minio-java.svg)](https://travis-ci.org/minio/minio-java)
 [![Build status](https://ci.appveyor.com/api/projects/status/1d05e6nvxcelmrak?svg=true)](https://ci.appveyor.com/project/harshavardhana/minio-java)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fminio-java.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fminio-java?ref=badge_large)
